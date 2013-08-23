@@ -3,6 +3,7 @@ System Requirements:
 * Java 1.6
 * Maven2
 * MongoDB
+* Servlet Container (Like Tomcat / Weblogic)
 	
 
 About:
